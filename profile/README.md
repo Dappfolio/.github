@@ -1,4 +1,4 @@
-#  <img src="https://user-images.githubusercontent.com/61543012/194734399-fb60b593-9b9e-4586-87bf-c29118e516c0.png" height="35" width="35" align-items="center" justify-content="center" /> Tradent
+#  <img src="https://user-images.githubusercontent.com/61543012/197379040-cc70f2b2-ac54-4419-8249-c3d00f4eec60.png" height="35" width="35" align-items="center" justify-content="center" /> Dappfolio
 Building standards allows for predicability in a decentralized network. Decentralizing the practice of standard creation and maintainance is the key. 
 
 ## Well-rouned and well-tested blockchain technology
